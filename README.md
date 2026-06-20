@@ -44,8 +44,13 @@ The tool classifies passwords as:
 Cybersecurity-Toolkit/
 
 ├── password-strength-checker/
+│   └── password_checker.py
 
-│ └── password_checker.py
+├── port-scanner/
+│   └── port_scanner.py
+
+├── log-analyzer/
+│   └── log_analyzer.py
 
 └── README.md
 
